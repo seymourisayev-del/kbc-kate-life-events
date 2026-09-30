@@ -1,14 +1,5 @@
-# Model
 pandas
-numpy
-scikit-learn
-tabpfn
-xgboost
-shap
-
-# UI
 streamlit
-plotly
 
 # LLM + voice
 google-genai

@@ -1,0 +1,456 @@
+persona_id,date,counterparty,description,amount
+janssens,2026-04-01,Immo Dijle,"Huur appartement Bruul 22, 2800 Mechelen",-1150.0
+janssens,2026-04-03,Engie,Voorschot elektriciteit en gas,-145.0
+janssens,2026-04-04,bol.com,Bancontact,-64.1
+janssens,2026-04-06,Proximus,Flex pack,-89.0
+janssens,2026-04-07,TotalEnergies,Bancontact,-34.17
+janssens,2026-04-09,HEMA,Bancontact,-45.59
+janssens,2026-04-10,KBC Verzekeringen,"Premie brand, auto, familiale",-78.75
+janssens,2026-04-10,Zalando,Bancontact,-18.41
+janssens,2026-04-11,Kruidvat,Bancontact,-62.91
+janssens,2026-04-12,Colruyt,Bancontact,-74.77
+janssens,2026-04-14,Delhaize,Bancontact,-18.93
+janssens,2026-04-15,Kinderopvang De Zonnebloem,Opvang,-480.0
+janssens,2026-04-17,Zalando,Bancontact,-43.47
+janssens,2026-04-18,Albert Heijn,Bancontact,-68.72
+janssens,2026-04-20,Netflix,Abonnement,-13.99
+janssens,2026-04-22,Albert Heijn,Bancontact,-49.64
+janssens,2026-04-23,Colruyt,Bancontact,-32.78
+janssens,2026-04-25,Atlas Engineering NV,Loon Tom,3450.0
+janssens,2026-04-26,Kruidvat,Bancontact,-29.73
+janssens,2026-04-27,AZ Sint-Maarten,Loon Sara,2890.0
+janssens,2026-04-27,Colruyt,Bancontact,-49.03
+janssens,2026-04-29,Zalando,Bancontact,-67.18
+janssens,2026-04-30,Delhaize,Bancontact,-67.28
+janssens,2026-05-01,Immo Dijle,"Huur appartement Bruul 22, 2800 Mechelen",-1150.0
+janssens,2026-05-01,Albert Heijn,Bancontact,-50.68
+janssens,2026-05-02,bol.com,Bancontact,-53.46
+janssens,2026-05-03,Engie,Voorschot elektriciteit en gas,-145.0
+janssens,2026-05-03,Colruyt,Bancontact,-69.7
+janssens,2026-05-03,Deliveroo,Bancontact,-11.84
+janssens,2026-05-05,Kruidvat,Bancontact,-67.8
+janssens,2026-05-05,TotalEnergies,Bancontact,-52.93
+janssens,2026-05-06,Proximus,Flex pack,-89.0
+janssens,2026-05-07,Delhaize,Bancontact,-53.64
+janssens,2026-05-07,Panos,Bancontact,-27.22
+janssens,2026-05-10,KBC Verzekeringen,"Premie brand, auto, familiale",-78.75
+janssens,2026-05-10,Albert Heijn,Bancontact,-69.28
+janssens,2026-05-14,Colruyt,Bancontact,-41.23
+janssens,2026-05-15,Kinderopvang De Zonnebloem,Opvang,-480.0
+janssens,2026-05-15,Colruyt,Bancontact,-48.91
+janssens,2026-05-15,bol.com,Bancontact,-20.32
+janssens,2026-05-16,Takeaway.com,Bancontact,-8.83
+janssens,2026-05-17,Colruyt,Bancontact,-59.21
+janssens,2026-05-17,Panos,Bancontact,-13.38
+janssens,2026-05-19,De Lijn,Bancontact,-8.86
+janssens,2026-05-20,Netflix,Abonnement,-13.99
+janssens,2026-05-22,Albert Heijn,Bancontact,-30.4
+janssens,2026-05-24,Exki,Bancontact,-8.84
+janssens,2026-05-25,Atlas Engineering NV,Loon Tom,3450.0
+janssens,2026-05-25,Deliveroo,Bancontact,-27.29
+janssens,2026-05-27,AZ Sint-Maarten,Loon Sara,2890.0
+janssens,2026-05-27,Panos,Bancontact,-21.25
+janssens,2026-05-28,Lidl,Bancontact,-50.55
+janssens,2026-05-29,Delhaize,Bancontact,-71.3
+janssens,2026-05-31,Albert Heijn,Bancontact,-36.34
+janssens,2026-06-01,Immo Dijle,"Huur appartement Bruul 22, 2800 Mechelen",-1150.0
+janssens,2026-06-01,Colruyt,Bancontact,-37.32
+janssens,2026-06-02,Delhaize,Bancontact,-71.64
+janssens,2026-06-02,Takeaway.com,Bancontact,-17.41
+janssens,2026-06-03,Engie,Voorschot elektriciteit en gas,-145.0
+janssens,2026-06-06,Proximus,Flex pack,-89.0
+janssens,2026-06-07,Delhaize,Bancontact,-58.39
+janssens,2026-06-09,Colruyt,Bancontact,-26.73
+janssens,2026-06-10,KBC Verzekeringen,"Premie brand, auto, familiale",-78.75
+janssens,2026-06-11,Lidl,Bancontact,-42.83
+janssens,2026-06-11,Exki,Bancontact,-26.72
+janssens,2026-06-12,Exki,Bancontact,-8.15
+janssens,2026-06-15,Kinderopvang De Zonnebloem,Opvang,-480.0
+janssens,2026-06-17,Lidl,Bancontact,-57.79
+janssens,2026-06-20,Netflix,Abonnement,-13.99
+janssens,2026-06-20,De Lijn,Bancontact,-17.6
+janssens,2026-06-23,Albert Heijn,Bancontact,-46.3
+janssens,2026-06-25,Atlas Engineering NV,Loon Tom,3450.0
+janssens,2026-06-25,HEMA,Bancontact,-41.78
+janssens,2026-06-25,Q8,Bancontact,-31.05
+janssens,2026-06-27,AZ Sint-Maarten,Loon Sara,2890.0
+janssens,2026-06-27,Lidl,Bancontact,-71.4
+janssens,2026-06-30,Delhaize,Bancontact,-36.19
+janssens,2026-07-01,Immo Dijle,"Huur appartement Bruul 22, 2800 Mechelen",-1150.0
+janssens,2026-07-03,Engie,Voorschot elektriciteit en gas,-145.0
+janssens,2026-07-04,Albert Heijn,Bancontact,-36.48
+janssens,2026-07-05,Panos,Bancontact,-12.12
+janssens,2026-07-06,Proximus,Flex pack,-89.0
+janssens,2026-07-06,Albert Heijn,Bancontact,-62.04
+janssens,2026-07-06,Panos,Bancontact,-25.1
+janssens,2026-07-06,bol.com,Bancontact,-28.36
+janssens,2026-07-08,Lidl,Bancontact,-35.79
+janssens,2026-07-09,Colruyt,Bancontact,-55.11
+janssens,2026-07-10,KBC Verzekeringen,"Premie brand, auto, familiale",-78.75
+janssens,2026-07-10,Notaris Vermeulen,"Voorschot compromis Kerkstraat 45, 2500 Lier",-5000.0
+janssens,2026-07-10,Delhaize,Bancontact,-46.85
+janssens,2026-07-12,Exki,Bancontact,-32.45
+janssens,2026-07-13,Colruyt,Bancontact,-24.62
+janssens,2026-07-15,Kinderopvang De Zonnebloem,Opvang,-480.0
+janssens,2026-07-16,Colruyt,Bancontact,-55.96
+janssens,2026-07-17,De Lijn,Bancontact,-30.84
+janssens,2026-07-18,Colruyt,Bancontact,-66.7
+janssens,2026-07-20,Netflix,Abonnement,-13.99
+janssens,2026-07-24,Exki,Bancontact,-22.73
+janssens,2026-07-24,HEMA,Bancontact,-20.46
+janssens,2026-07-24,TotalEnergies,Bancontact,-43.78
+janssens,2026-07-25,Atlas Engineering NV,Loon Tom,3450.0
+janssens,2026-07-27,AZ Sint-Maarten,Loon Sara,2890.0
+janssens,2026-07-28,Deliveroo,Bancontact,-31.47
+janssens,2026-07-29,Deliveroo,Bancontact,-29.24
+janssens,2026-07-31,bol.com,Bancontact,-76.33
+janssens,2026-08-01,Immo Dijle,"Huur appartement Bruul 22, 2800 Mechelen",-1150.0
+janssens,2026-08-01,De Lijn,Bancontact,-28.94
+janssens,2026-08-03,Engie,Voorschot elektriciteit en gas,-145.0
+janssens,2026-08-03,Exki,Bancontact,-13.73
+janssens,2026-08-03,Q8,Bancontact,-3.62
+janssens,2026-08-05,Lidl,Bancontact,-16.07
+janssens,2026-08-06,Proximus,Flex pack,-89.0
+janssens,2026-08-06,Colruyt,Bancontact,-36.95
+janssens,2026-08-08,Q8,Bancontact,-3.76
+janssens,2026-08-09,Colruyt,Bancontact,-38.34
+janssens,2026-08-10,KBC Verzekeringen,"Premie brand, auto, familiale",-78.75
+janssens,2026-08-12,Delhaize,Bancontact,-52.78
+janssens,2026-08-14,Albert Heijn,Bancontact,-67.17
+janssens,2026-08-14,Zalando,Bancontact,-58.89
+janssens,2026-08-15,Kinderopvang De Zonnebloem,Opvang,-480.0
+janssens,2026-08-17,Albert Heijn,Bancontact,-31.08
+janssens,2026-08-20,Netflix,Abonnement,-13.99
+janssens,2026-08-22,TotalEnergies,Bancontact,-34.18
+janssens,2026-08-23,Albert Heijn,Bancontact,-50.18
+janssens,2026-08-23,Exki,Bancontact,-20.41
+janssens,2026-08-25,Atlas Engineering NV,Loon Tom,3450.0
+janssens,2026-08-26,Delhaize,Bancontact,-20.53
+janssens,2026-08-27,AZ Sint-Maarten,Loon Sara,2890.0
+janssens,2026-08-28,Spaarrekening Janssens,Overschrijving eigen inbreng,45000.0
+janssens,2026-08-29,Panos,Bancontact,-24.12
+janssens,2026-08-30,Colruyt,Bancontact,-27.28
+janssens,2026-08-31,Albert Heijn,Bancontact,-40.56
+janssens,2026-09-01,Immo Dijle,"Huur appartement Bruul 22, 2800 Mechelen",-1150.0
+janssens,2026-09-01,Zalando,Bancontact,-89.58
+janssens,2026-09-02,Colruyt,Bancontact,-48.44
+janssens,2026-09-03,Engie,Voorschot elektriciteit en gas,-145.0
+janssens,2026-09-03,Exki,Bancontact,-32.9
+janssens,2026-09-04,Notaris Vermeulen,"Akte aankoop woning Kerkstraat 45, 2500 Lier",-41200.0
+janssens,2026-09-06,Proximus,Flex pack,-89.0
+janssens,2026-09-06,Delhaize,Bancontact,-25.33
+janssens,2026-09-06,De Lijn,Bancontact,-63.61
+janssens,2026-09-07,Exki,Bancontact,-9.51
+janssens,2026-09-09,bpost,Do My Move verhuisdienst,-29.5
+janssens,2026-09-09,Panos,Bancontact,-18.04
+janssens,2026-09-10,KBC Verzekeringen,"Premie brand, auto, familiale",-78.75
+janssens,2026-09-10,KBC Woonkrediet,"Aflossing woonkrediet Kerkstraat 45, 2500 Lier",-1480.0
+janssens,2026-09-12,Verhuizingen Dockx,Verhuizing Mechelen - Lier,-1250.0
+janssens,2026-09-12,Delhaize,Bancontact,-19.67
+janssens,2026-09-13,IKEA Wilrijk,Aankoop,-1890.0
+janssens,2026-09-14,Brico Lier,Aankoop,-420.0
+janssens,2026-09-14,Colruyt,Bancontact,-42.14
+janssens,2026-09-15,Kinderopvang De Zonnebloem,Opvang,-480.0
+janssens,2026-09-15,Pidpa,Aansluiting water Kerkstraat 45,-75.0
+janssens,2026-09-15,Deliveroo,Bancontact,-27.87
+janssens,2026-09-17,Colruyt,Bancontact,-31.27
+janssens,2026-09-19,Deliveroo,Bancontact,-23.12
+janssens,2026-09-20,Netflix,Abonnement,-13.99
+janssens,2026-09-21,Delhaize,Bancontact,-20.85
+janssens,2026-09-21,De Lijn,Bancontact,-68.56
+janssens,2026-09-22,Colruyt,Bancontact,-41.53
+janssens,2026-09-24,Lidl,Bancontact,-28.1
+janssens,2026-09-25,Atlas Engineering NV,Loon Tom,3450.0
+janssens,2026-09-26,Lidl,Bancontact,-60.68
+janssens,2026-09-27,AZ Sint-Maarten,Loon Sara,2890.0
+janssens,2026-09-27,De Lijn,Bancontact,-52.09
+janssens,2026-09-28,HEMA,Bancontact,-38.15
+janssens,2026-09-29,Kruidvat,Bancontact,-22.4
+janssens,2026-09-30,Albert Heijn,Bancontact,-17.2
+lotte,2026-04-01,Dhr. Maes,"Huur kot Naamsestraat 80, 3000 Leuven",-540.0
+lotte,2026-04-02,Zalando,Bancontact,-14.92
+lotte,2026-04-03,Colruyt,Bancontact,-48.06
+lotte,2026-04-03,Takeaway.com,Bancontact,-33.58
+lotte,2026-04-04,Lidl,Bancontact,-17.98
+lotte,2026-04-05,Orange Belgium,Abonnement mobiel,-22.0
+lotte,2026-04-06,Deliveroo,Bancontact,-18.05
+lotte,2026-04-06,Q8,Bancontact,-44.47
+lotte,2026-04-09,Panos,Bancontact,-22.18
+lotte,2026-04-11,De Lijn,Bancontact,-8.2
+lotte,2026-04-12,Spotify,Premium,-11.99
+lotte,2026-04-13,Q8,Bancontact,-66.29
+lotte,2026-04-14,HEMA,Bancontact,-62.48
+lotte,2026-04-15,NMBS,Abonnement trein,-49.0
+lotte,2026-04-16,Lidl,Bancontact,-36.33
+lotte,2026-04-18,Basic-Fit,Lidmaatschap,-29.99
+lotte,2026-04-19,Lidl,Bancontact,-66.84
+lotte,2026-04-21,Delhaize,Bancontact,-15.72
+lotte,2026-04-22,Albert Heijn,Bancontact,-51.59
+lotte,2026-04-25,Studio Nova BV,Loon,2450.0
+lotte,2026-04-26,Delhaize,Bancontact,-41.44
+lotte,2026-04-26,Takeaway.com,Bancontact,-10.76
+lotte,2026-04-27,Zalando,Bancontact,-59.9
+lotte,2026-04-28,Albert Heijn,Bancontact,-51.14
+lotte,2026-05-01,Dhr. Maes,"Huur kot Naamsestraat 80, 3000 Leuven",-540.0
+lotte,2026-05-03,Panos,Bancontact,-22.0
+lotte,2026-05-04,Albert Heijn,Bancontact,-53.19
+lotte,2026-05-05,Orange Belgium,Abonnement mobiel,-22.0
+lotte,2026-05-05,Delhaize,Bancontact,-64.1
+lotte,2026-05-06,Takeaway.com,Bancontact,-29.33
+lotte,2026-05-10,Panos,Bancontact,-29.59
+lotte,2026-05-12,Spotify,Premium,-11.99
+lotte,2026-05-12,Albert Heijn,Bancontact,-20.2
+lotte,2026-05-13,Deliveroo,Bancontact,-12.59
+lotte,2026-05-15,NMBS,Abonnement trein,-49.0
+lotte,2026-05-16,Colruyt,Bancontact,-62.96
+lotte,2026-05-17,Delhaize,Bancontact,-64.57
+lotte,2026-05-18,Basic-Fit,Lidmaatschap,-29.99
+lotte,2026-05-18,Albert Heijn,Bancontact,-30.56
+lotte,2026-05-21,Exki,Bancontact,-28.97
+lotte,2026-05-22,Delhaize,Bancontact,-43.41
+lotte,2026-05-25,Studio Nova BV,Loon,2450.0
+lotte,2026-05-29,Delhaize,Bancontact,-65.4
+lotte,2026-05-29,Takeaway.com,Bancontact,-18.59
+lotte,2026-06-01,Dhr. Maes,"Huur kot Naamsestraat 80, 3000 Leuven",-540.0
+lotte,2026-06-01,Delhaize,Bancontact,-73.05
+lotte,2026-06-04,Kruidvat,Bancontact,-46.36
+lotte,2026-06-04,TotalEnergies,Bancontact,-37.67
+lotte,2026-06-05,Orange Belgium,Abonnement mobiel,-22.0
+lotte,2026-06-06,Colruyt,Bancontact,-20.04
+lotte,2026-06-10,Colruyt,Bancontact,-31.14
+lotte,2026-06-10,Takeaway.com,Bancontact,-29.64
+lotte,2026-06-11,Colruyt,Bancontact,-42.23
+lotte,2026-06-12,Spotify,Premium,-11.99
+lotte,2026-06-12,Delhaize,Bancontact,-17.59
+lotte,2026-06-13,Delhaize,Bancontact,-27.11
+lotte,2026-06-15,NMBS,Abonnement trein,-49.0
+lotte,2026-06-15,Albert Heijn,Bancontact,-17.22
+lotte,2026-06-15,Deliveroo,Bancontact,-21.88
+lotte,2026-06-18,Basic-Fit,Lidmaatschap,-29.99
+lotte,2026-06-18,Delhaize,Bancontact,-64.94
+lotte,2026-06-19,Deliveroo,Bancontact,-8.38
+lotte,2026-06-20,Exki,Bancontact,-31.5
+lotte,2026-06-21,Albert Heijn,Bancontact,-17.71
+lotte,2026-06-21,TotalEnergies,Bancontact,-67.44
+lotte,2026-06-23,Kruidvat,Bancontact,-18.54
+lotte,2026-06-25,Studio Nova BV,Loon,2450.0
+lotte,2026-06-29,Delhaize,Bancontact,-17.63
+lotte,2026-07-01,Dhr. Maes,"Huur kot Naamsestraat 80, 3000 Leuven",-540.0
+lotte,2026-07-03,Colruyt,Bancontact,-17.51
+lotte,2026-07-04,Takeaway.com,Bancontact,-24.91
+lotte,2026-07-05,Orange Belgium,Abonnement mobiel,-22.0
+lotte,2026-07-05,Colruyt,Bancontact,-59.9
+lotte,2026-07-06,Lidl,Bancontact,-30.13
+lotte,2026-07-06,Panos,Bancontact,-14.34
+lotte,2026-07-08,Zalando,Bancontact,-18.04
+lotte,2026-07-09,Albert Heijn,Bancontact,-52.27
+lotte,2026-07-09,Exki,Bancontact,-9.64
+lotte,2026-07-12,Spotify,Premium,-11.99
+lotte,2026-07-12,Colruyt,Bancontact,-71.18
+lotte,2026-07-12,Exki,Bancontact,-10.06
+lotte,2026-07-14,Colruyt,Bancontact,-23.5
+lotte,2026-07-15,NMBS,Abonnement trein,-49.0
+lotte,2026-07-16,Lidl,Bancontact,-38.64
+lotte,2026-07-18,Basic-Fit,Lidmaatschap,-29.99
+lotte,2026-07-18,Albert Heijn,Bancontact,-15.1
+lotte,2026-07-21,Q8,Bancontact,-6.46
+lotte,2026-07-24,Exki,Bancontact,-32.66
+lotte,2026-07-25,Studio Nova BV,Loon,2450.0
+lotte,2026-07-25,Exki,Bancontact,-20.17
+lotte,2026-07-26,Deliveroo,Bancontact,-12.61
+lotte,2026-07-27,Albert Heijn,Bancontact,-39.37
+lotte,2026-07-28,Delhaize,Bancontact,-19.51
+lotte,2026-08-01,Dhr. Maes,"Huur kot Naamsestraat 80, 3000 Leuven",-540.0
+lotte,2026-08-01,Lidl,Bancontact,-37.97
+lotte,2026-08-04,Delhaize,Bancontact,-38.07
+lotte,2026-08-05,Orange Belgium,Abonnement mobiel,-22.0
+lotte,2026-08-07,Lidl,Bancontact,-73.33
+lotte,2026-08-10,Delhaize,Bancontact,-28.95
+lotte,2026-08-11,Albert Heijn,Bancontact,-46.7
+lotte,2026-08-12,Spotify,Premium,-11.99
+lotte,2026-08-13,Panos,Bancontact,-34.9
+lotte,2026-08-15,NMBS,Abonnement trein,-49.0
+lotte,2026-08-15,Lidl,Bancontact,-57.28
+lotte,2026-08-15,Kruidvat,Bancontact,-81.02
+lotte,2026-08-16,Delhaize,Bancontact,-55.04
+lotte,2026-08-16,TotalEnergies,Bancontact,-51.13
+lotte,2026-08-17,HEMA,Bancontact,-69.65
+lotte,2026-08-18,Basic-Fit,Lidmaatschap,-29.99
+lotte,2026-08-18,Delhaize,Bancontact,-33.7
+lotte,2026-08-20,Delhaize,Bancontact,-44.1
+lotte,2026-08-20,Zalando,Bancontact,-83.91
+lotte,2026-08-20,Q8,Bancontact,-68.27
+lotte,2026-08-21,KBC Huurwaarborg,"Huurwaarborg Korenmarkt 12, 9000 Gent",-1700.0
+lotte,2026-08-21,Colruyt,Bancontact,-57.59
+lotte,2026-08-22,Takeaway.com,Bancontact,-33.15
+lotte,2026-08-23,Kruidvat,Bancontact,-77.45
+lotte,2026-08-24,Takeaway.com,Bancontact,-15.55
+lotte,2026-08-25,Studio Nova BV,Loon,2450.0
+lotte,2026-08-25,Delhaize,Bancontact,-37.81
+lotte,2026-08-26,Lidl,Bancontact,-26.74
+lotte,2026-08-29,Deliveroo,Bancontact,-28.18
+lotte,2026-08-30,Colruyt,Bancontact,-30.73
+lotte,2026-08-31,Colruyt,Bancontact,-16.46
+lotte,2026-09-01,Immo Gent Centrum,"Huur appartement Korenmarkt 12, 9000 Gent",-850.0
+lotte,2026-09-03,bpost,Do My Move verhuisdienst,-29.5
+lotte,2026-09-05,Orange Belgium,Abonnement mobiel,-22.0
+lotte,2026-09-05,Europcar Gent,Huur bestelwagen,-89.0
+lotte,2026-09-05,Delhaize,Bancontact,-38.5
+lotte,2026-09-06,IKEA Gent,Aankoop,-612.4
+lotte,2026-09-07,Colruyt,Bancontact,-30.89
+lotte,2026-09-07,Takeaway.com,Bancontact,-19.37
+lotte,2026-09-08,Telenet,Installatie internet Korenmarkt 12,-50.0
+lotte,2026-09-08,Delhaize,Bancontact,-40.01
+lotte,2026-09-10,Bolt Energie,Voorschot elektriciteit,-65.0
+lotte,2026-09-11,Delhaize,Bancontact,-26.14
+lotte,2026-09-12,Spotify,Premium,-11.99
+lotte,2026-09-12,Colruyt,Bancontact,-38.76
+lotte,2026-09-13,Brico Gent,Aankoop,-84.3
+lotte,2026-09-15,NMBS,Abonnement trein,-49.0
+lotte,2026-09-15,Albert Heijn,Bancontact,-28.97
+lotte,2026-09-15,Deliveroo,Bancontact,-33.11
+lotte,2026-09-17,Albert Heijn,Bancontact,-28.06
+lotte,2026-09-18,Basic-Fit,Lidmaatschap,-29.99
+lotte,2026-09-18,Delhaize,Bancontact,-63.88
+lotte,2026-09-19,Takeaway.com,Bancontact,-29.47
+lotte,2026-09-19,Q8,Bancontact,-56.32
+lotte,2026-09-22,Panos,Bancontact,-19.18
+lotte,2026-09-22,HEMA,Bancontact,-62.27
+lotte,2026-09-24,Colruyt,Bancontact,-39.37
+lotte,2026-09-25,Studio Nova BV,Loon,2450.0
+lotte,2026-09-25,Delhaize,Bancontact,-53.44
+lotte,2026-09-29,De Lijn,Bancontact,-28.99
+marc,2026-04-01,TotalEnergies,Bancontact,-50.88
+marc,2026-04-03,Engie,Voorschot elektriciteit en gas,-130.0
+marc,2026-04-03,bol.com,Bancontact,-86.42
+marc,2026-04-04,Q8,Bancontact,-17.99
+marc,2026-04-05,Colruyt,Bancontact,-33.71
+marc,2026-04-05,De Lijn,Bancontact,-52.5
+marc,2026-04-06,Telenet,Internet en tv,-75.0
+marc,2026-04-06,Lidl,Bancontact,-46.37
+marc,2026-04-07,Takeaway.com,Bancontact,-20.55
+marc,2026-04-08,Colruyt,Bancontact,-39.34
+marc,2026-04-08,Deliveroo,Bancontact,-31.25
+marc,2026-04-10,KBC Verzekeringen,"Premie brand, auto, familiale",-95.42
+marc,2026-04-12,Albert Heijn,Bancontact,-57.93
+marc,2026-04-14,Albert Heijn,Bancontact,-29.96
+marc,2026-04-15,Exki,Bancontact,-13.42
+marc,2026-04-17,Colruyt,Bancontact,-17.06
+marc,2026-04-18,Colruyt,Bancontact,-52.28
+marc,2026-04-20,Albert Heijn,Bancontact,-20.07
+marc,2026-04-22,Colruyt,Bancontact,-59.42
+marc,2026-04-23,Lidl,Bancontact,-27.07
+marc,2026-04-25,Stad Brugge,Loon,3900.0
+marc,2026-04-25,Lidl,Bancontact,-73.18
+marc,2026-04-27,bol.com,Bancontact,-24.37
+marc,2026-04-27,TotalEnergies,Bancontact,-32.48
+marc,2026-04-28,Lidl,Bancontact,-65.06
+marc,2026-04-30,Deliveroo,Bancontact,-24.64
+marc,2026-05-03,Engie,Voorschot elektriciteit en gas,-130.0
+marc,2026-05-03,Colruyt,Bancontact,-15.26
+marc,2026-05-06,Telenet,Internet en tv,-75.0
+marc,2026-05-10,KBC Verzekeringen,"Premie brand, auto, familiale",-95.42
+marc,2026-05-10,Albert Heijn,Bancontact,-34.43
+marc,2026-05-11,Lidl,Bancontact,-68.48
+marc,2026-05-11,HEMA,Bancontact,-56.06
+marc,2026-05-19,Albert Heijn,Bancontact,-37.0
+marc,2026-05-19,Panos,Bancontact,-21.84
+marc,2026-05-24,Lidl,Bancontact,-15.64
+marc,2026-05-24,Takeaway.com,Bancontact,-32.76
+marc,2026-05-25,Stad Brugge,Loon,3900.0
+marc,2026-05-25,Colruyt,Bancontact,-26.8
+marc,2026-05-27,Deliveroo,Bancontact,-22.0
+marc,2026-05-27,Q8,Bancontact,-14.43
+marc,2026-05-29,Colruyt,Bancontact,-56.07
+marc,2026-05-30,Colruyt,Bancontact,-31.0
+marc,2026-05-30,Takeaway.com,Bancontact,-17.42
+marc,2026-05-31,Lidl,Bancontact,-49.96
+marc,2026-06-01,Colruyt,Bancontact,-24.56
+marc,2026-06-01,TotalEnergies,Bancontact,-23.35
+marc,2026-06-03,Engie,Voorschot elektriciteit en gas,-130.0
+marc,2026-06-03,Lidl,Bancontact,-55.49
+marc,2026-06-04,Deliveroo,Bancontact,-10.36
+marc,2026-06-05,Albert Heijn,Bancontact,-38.76
+marc,2026-06-06,Telenet,Internet en tv,-75.0
+marc,2026-06-08,Q8,Bancontact,-19.2
+marc,2026-06-09,Delhaize,Bancontact,-31.18
+marc,2026-06-10,KBC Verzekeringen,"Premie brand, auto, familiale",-95.42
+marc,2026-06-13,Albert Heijn,Bancontact,-50.76
+marc,2026-06-15,Panos,Bancontact,-27.87
+marc,2026-06-15,De Lijn,Bancontact,-41.03
+marc,2026-06-19,Albert Heijn,Bancontact,-20.28
+marc,2026-06-23,Lidl,Bancontact,-29.91
+marc,2026-06-24,Colruyt,Bancontact,-31.25
+marc,2026-06-25,Stad Brugge,Loon,3900.0
+marc,2026-06-26,Colruyt,Bancontact,-48.14
+marc,2026-06-27,Lidl,Bancontact,-58.0
+marc,2026-06-28,Panos,Bancontact,-32.33
+marc,2026-06-29,TotalEnergies,Bancontact,-17.08
+marc,2026-07-02,Lidl,Bancontact,-41.55
+marc,2026-07-03,Engie,Voorschot elektriciteit en gas,-130.0
+marc,2026-07-04,Delhaize,Bancontact,-44.37
+marc,2026-07-06,Telenet,Internet en tv,-75.0
+marc,2026-07-06,Albert Heijn,Bancontact,-29.98
+marc,2026-07-06,Panos,Bancontact,-17.38
+marc,2026-07-07,Lidl,Bancontact,-55.22
+marc,2026-07-09,Deliveroo,Bancontact,-17.01
+marc,2026-07-10,KBC Verzekeringen,"Premie brand, auto, familiale",-95.42
+marc,2026-07-12,TotalEnergies,Bancontact,-23.36
+marc,2026-07-13,Albert Heijn,Bancontact,-41.88
+marc,2026-07-13,Panos,Bancontact,-20.02
+marc,2026-07-14,Exki,Bancontact,-34.79
+marc,2026-07-17,Colruyt,Bancontact,-53.67
+marc,2026-07-18,Delhaize,Bancontact,-19.69
+marc,2026-07-18,Kruidvat,Bancontact,-77.49
+marc,2026-07-19,Delhaize,Bancontact,-21.13
+marc,2026-07-21,Albert Heijn,Bancontact,-65.27
+marc,2026-07-21,bol.com,Bancontact,-56.22
+marc,2026-07-24,Deliveroo,Bancontact,-12.42
+marc,2026-07-25,Stad Brugge,Loon,3900.0
+marc,2026-07-25,Colruyt,Bancontact,-66.04
+marc,2026-07-26,Lidl,Bancontact,-23.59
+marc,2026-07-26,Takeaway.com,Bancontact,-21.89
+marc,2026-07-28,Albert Heijn,Bancontact,-15.25
+marc,2026-07-31,Takeaway.com,Bancontact,-27.51
+marc,2026-08-02,Albert Heijn,Bancontact,-46.82
+marc,2026-08-03,Engie,Voorschot elektriciteit en gas,-130.0
+marc,2026-08-06,Telenet,Internet en tv,-75.0
+marc,2026-08-06,Colruyt,Bancontact,-28.28
+marc,2026-08-10,KBC Verzekeringen,"Premie brand, auto, familiale",-95.42
+marc,2026-08-10,Colruyt,Bancontact,-52.6
+marc,2026-08-12,Panos,Bancontact,-28.96
+marc,2026-08-12,Zalando,Bancontact,-15.68
+marc,2026-08-12,De Lijn,Bancontact,-42.82
+marc,2026-08-13,Albert Heijn,Bancontact,-22.23
+marc,2026-08-13,Takeaway.com,Bancontact,-24.77
+marc,2026-08-16,Albert Heijn,Bancontact,-45.79
+marc,2026-08-18,Deliveroo,Bancontact,-14.87
+marc,2026-08-19,Q8,Bancontact,-7.94
+marc,2026-08-20,Delhaize,Bancontact,-48.25
+marc,2026-08-21,Albert Heijn,Bancontact,-47.31
+marc,2026-08-22,Albert Heijn,Bancontact,-74.67
+marc,2026-08-22,Q8,Bancontact,-8.0
+marc,2026-08-25,Stad Brugge,Loon,3900.0
+marc,2026-08-26,Takeaway.com,Bancontact,-13.71
+marc,2026-08-30,Lidl,Bancontact,-31.4
+marc,2026-08-31,De Lijn,Bancontact,-63.48
+marc,2026-09-01,Delhaize,Bancontact,-61.46
+marc,2026-09-02,Delhaize,Bancontact,-67.37
+marc,2026-09-03,Engie,Voorschot elektriciteit en gas,-130.0
+marc,2026-09-04,TotalEnergies,Bancontact,-48.01
+marc,2026-09-06,Telenet,Internet en tv,-75.0
+marc,2026-09-10,KBC Verzekeringen,"Premie brand, auto, familiale",-95.42
+marc,2026-09-10,Deliveroo,Bancontact,-23.75
+marc,2026-09-12,IKEA Gent,Aankoop zetel,-689.0
+marc,2026-09-12,Kruidvat,Bancontact,-36.9
+marc,2026-09-14,Colruyt,Bancontact,-28.1
+marc,2026-09-19,Albert Heijn,Bancontact,-67.06
+marc,2026-09-19,Exki,Bancontact,-18.94
+marc,2026-09-20,Lidl,Bancontact,-62.78
+marc,2026-09-20,Panos,Bancontact,-28.95
+marc,2026-09-21,HEMA,Bancontact,-56.0
+marc,2026-09-22,Albert Heijn,Bancontact,-24.4
+marc,2026-09-22,Deliveroo,Bancontact,-11.85
+marc,2026-09-25,Stad Brugge,Loon,3900.0
+marc,2026-09-28,Colruyt,Bancontact,-48.49
+marc,2026-09-28,Panos,Bancontact,-12.07

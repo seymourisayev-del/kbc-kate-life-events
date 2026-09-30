@@ -1,0 +1,80 @@
+[
+  {
+    "id": "lotte",
+    "name": "Lotte Peeters",
+    "first_name": "Lotte",
+    "age": 26,
+    "segment": "Young professional, first-time renter",
+    "address": "Naamsestraat 80, 3000 Leuven",
+    "start_balance": 3200,
+    "tone": "Informal and warm, short sentences, first-name basis. She is new to insurance: explain in plain words, no jargon.",
+    "products": [
+      {
+        "type": "account",
+        "name": "KBC Plus Account"
+      }
+    ]
+  },
+  {
+    "id": "janssens",
+    "name": "Tom & Sara Janssens",
+    "first_name": "Tom",
+    "age": 38,
+    "segment": "Family with two kids, buying a first house",
+    "address": "Bruul 22, 2800 Mechelen",
+    "start_balance": 9400,
+    "tone": "Friendly but efficient and structured. Busy parents: lead with what matters, be precise about cover and amounts.",
+    "products": [
+      {
+        "type": "account",
+        "name": "KBC Plus Account (joint)"
+      },
+      {
+        "type": "home",
+        "name": "KBC Home Insurance (tenant)",
+        "annual_premium": 210
+      },
+      {
+        "type": "car",
+        "name": "KBC Car Insurance",
+        "annual_premium": 640
+      },
+      {
+        "type": "family",
+        "name": "KBC Family Liability",
+        "annual_premium": 95
+      }
+    ]
+  },
+  {
+    "id": "marc",
+    "name": "Marc De Smet",
+    "first_name": "Marc",
+    "age": 54,
+    "segment": "Homeowner, stable (control: no life event)",
+    "address": "Langestraat 101, 8000 Brugge",
+    "start_balance": 12800,
+    "tone": "Polite and to the point.",
+    "products": [
+      {
+        "type": "account",
+        "name": "KBC Plus Account"
+      },
+      {
+        "type": "home",
+        "name": "KBC Home Insurance (owner)",
+        "annual_premium": 460
+      },
+      {
+        "type": "car",
+        "name": "KBC Car Insurance",
+        "annual_premium": 590
+      },
+      {
+        "type": "family",
+        "name": "KBC Family Liability",
+        "annual_premium": 95
+      }
+    ]
+  }
+]

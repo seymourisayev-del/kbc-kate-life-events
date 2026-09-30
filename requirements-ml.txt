@@ -1,0 +1,5 @@
+# Not used by the demo. Large download (PyTorch); only install if we add a model.
+scikit-learn
+tabpfn
+xgboost
+shap
