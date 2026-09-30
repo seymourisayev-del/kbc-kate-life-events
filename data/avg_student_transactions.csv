@@ -1,0 +1,131 @@
+﻿persona_id,date,time,counterparty,description,amount,category,subcategory,payment_method
+student,2026-07-01,08:14,Ouders Wouters,Zakgeld,250.0,Income,Allowance,Transfer
+student,2026-07-01,20:11,Uber Eats,Bestelling,-20.32,Food delivery,Uber Eats,Card
+student,2026-07-02,14:10,Rock Werchter,Tokens,-62.0,Drinks & nightlife,Festivals,Card
+student,2026-07-02,20:38,Uber Eats,Bestelling,-23.87,Food delivery,Uber Eats,Card
+student,2026-07-03,08:26,Randstad Belgium,Loon studentenjob,329.69,Income,Student job,Transfer
+student,2026-07-03,22:40,Rock Werchter,Tokens,-48.0,Drinks & nightlife,Festivals,Card
+student,2026-07-04,07:21,Spotify,Premium Student,-5.99,Subscriptions,Music,Card
+student,2026-07-04,18:05,Rock Werchter,Tokens,-55.0,Drinks & nightlife,Festivals,Card
+student,2026-07-04,21:29,Café Paris Hasselt,Aankoop,-16.63,Drinks & nightlife,Bars,Payconiq
+student,2026-07-05,01:54,Uber Eats,Bestelling,-16.62,Food delivery,Uber Eats,Card
+student,2026-07-07,13:47,Batopin,Geldafhaling,-30.0,Cash,ATM withdrawal,Cash withdrawal
+student,2026-07-09,07:04,Netflix,Standard met reclame,-7.99,Subscriptions,Streaming,Card
+student,2026-07-10,07:59,Randstad Belgium,Loon studentenjob,348.38,Income,Student job,Transfer
+student,2026-07-10,16:04,Quick,Aankoop,-11.2,Eating out,Snacks & fast food,Payconiq
+student,2026-07-11,09:31,Mobile Vikings,Abonnement,-15.0,Subscriptions,Mobile,Direct debit
+student,2026-07-13,08:18,Apple,iCloud+ 50 GB,-0.99,Subscriptions,Apps & cloud,Card
+student,2026-07-13,20:23,Uber Eats,Bestelling,-18.99,Food delivery,Uber Eats,Card
+student,2026-07-15,16:51,Batopin,Geldafhaling,-30.0,Cash,ATM withdrawal,Cash withdrawal
+student,2026-07-17,06:20,Randstad Belgium,Loon studentenjob,339.4,Income,Student job,Transfer
+student,2026-07-17,08:18,NMBS,Aankoop,-8.26,Transport,Train,Bancontact
+student,2026-07-17,08:48,Basic-Fit,Premium lidmaatschap,-29.99,Hobbies,Gym,Direct debit
+student,2026-07-18,00:04,Café Paris Hasselt,Aankoop,-47.69,Drinks & nightlife,Bars,Payconiq
+student,2026-07-18,14:29,Payconiq: Lukas,Terugbetaling,-27.22,Transfers to friends,Splitting bills,Payconiq
+student,2026-07-18,22:27,Den Ouden Brouwer,Aankoop,-46.43,Drinks & nightlife,Bars,Bancontact
+student,2026-07-19,01:05,Uber Eats,Bestelling,-22.71,Food delivery,Uber Eats,Card
+student,2026-07-19,19:11,Uber Eats,Bestelling,-28.85,Food delivery,Uber Eats,Card
+student,2026-07-21,22:25,Payconiq: Jonas,Terugbetaling,-17.24,Transfers to friends,Splitting bills,Payconiq
+student,2026-07-22,12:41,Quick,Aankoop,-10.84,Eating out,Snacks & fast food,Payconiq
+student,2026-07-23,19:15,Uber Eats,Bestelling,-27.98,Food delivery,Uber Eats,Card
+student,2026-07-24,06:11,Randstad Belgium,Loon studentenjob,352.2,Income,Student job,Transfer
+student,2026-07-24,18:54,Uber Eats,Bestelling,-16.4,Food delivery,Uber Eats,Card
+student,2026-07-26,00:10,Den Ouden Brouwer,Aankoop,-34.4,Drinks & nightlife,Bars,Payconiq
+student,2026-07-28,12:57,Batopin,Geldafhaling,-30.0,Cash,ATM withdrawal,Cash withdrawal
+student,2026-07-29,22:22,Payconiq: Jonas,Terugbetaling,-20.41,Transfers to friends,Splitting bills,Payconiq
+student,2026-07-31,06:00,Randstad Belgium,Loon studentenjob,337.4,Income,Student job,Transfer
+student,2026-07-31,22:39,Café Hemingway Hasselt,Aankoop,-10.33,Drinks & nightlife,Bars,Payconiq
+student,2026-08-01,02:34,Uber Eats,Bestelling,-26.75,Food delivery,Uber Eats,Card
+student,2026-08-01,08:37,Ouders Wouters,Zakgeld,250.0,Income,Allowance,Transfer
+student,2026-08-01,13:22,Batopin,Geldafhaling,-30.0,Cash,ATM withdrawal,Cash withdrawal
+student,2026-08-04,09:15,Spotify,Premium Student,-5.99,Subscriptions,Music,Card
+student,2026-08-06,19:46,Batopin,Geldafhaling,-30.0,Cash,ATM withdrawal,Cash withdrawal
+student,2026-08-06,22:47,Payconiq: Emma,Terugbetaling,-28.89,Transfers to friends,Splitting bills,Payconiq
+student,2026-08-07,07:47,Randstad Belgium,Loon studentenjob,379.47,Income,Student job,Transfer
+student,2026-08-08,11:57,Batopin,Geldafhaling,-20.0,Cash,ATM withdrawal,Cash withdrawal
+student,2026-08-08,15:35,Carrefour Market,Aankoop,-20.36,Drinks & nightlife,Beer & night shop,Card
+student,2026-08-08,19:04,Quick,Aankoop,-13.52,Eating out,Snacks & fast food,Payconiq
+student,2026-08-09,00:57,Café Paris Hasselt,Aankoop,-19.14,Drinks & nightlife,Bars,Card
+student,2026-08-09,01:23,Uber,Rit,-9.82,Transport,Taxi rides,Card
+student,2026-08-09,02:43,Uber Eats,Bestelling,-22.18,Food delivery,Uber Eats,Card
+student,2026-08-09,08:31,Netflix,Standard met reclame,-7.99,Subscriptions,Streaming,Card
+student,2026-08-11,07:33,Mobile Vikings,Abonnement,-15.0,Subscriptions,Mobile,Direct debit
+student,2026-08-13,07:49,Apple,iCloud+ 50 GB,-0.99,Subscriptions,Apps & cloud,Card
+student,2026-08-13,16:30,Pukkelpop,Tokens,-70.0,Drinks & nightlife,Festivals,Card
+student,2026-08-14,06:25,Randstad Belgium,Loon studentenjob,359.78,Income,Student job,Transfer
+student,2026-08-14,21:15,Pukkelpop,Tokens,-64.0,Drinks & nightlife,Festivals,Card
+student,2026-08-14,21:40,Café Paris Hasselt,Aankoop,-26.92,Drinks & nightlife,Bars,Bancontact
+student,2026-08-15,19:45,Pukkelpop,Tokens,-58.0,Drinks & nightlife,Festivals,Card
+student,2026-08-15,21:13,Café Hemingway Hasselt,Aankoop,-26.42,Drinks & nightlife,Bars,Card
+student,2026-08-16,02:53,Uber Eats,Bestelling,-20.25,Food delivery,Uber Eats,Card
+student,2026-08-17,08:08,Basic-Fit,Premium lidmaatschap,-29.99,Hobbies,Gym,Direct debit
+student,2026-08-17,17:43,Panos,Aankoop,-7.17,Eating out,Snacks & fast food,Payconiq
+student,2026-08-21,06:02,Randstad Belgium,Loon studentenjob,372.42,Income,Student job,Transfer
+student,2026-08-21,10:02,Acco,Studiemateriaal herexamen,-18.5,Education,Books & courses,Card
+student,2026-08-22,00:20,Uber,Rit,-15.65,Transport,Taxi rides,Card
+student,2026-08-23,00:33,Den Ouden Brouwer,Aankoop,-43.91,Drinks & nightlife,Bars,Bancontact
+student,2026-08-23,01:11,Uber Eats,Bestelling,-29.03,Food delivery,Uber Eats,Card
+student,2026-08-25,19:25,Frituur De Pits,Aankoop,-7.47,Eating out,Snacks & fast food,Card
+student,2026-08-28,08:33,Randstad Belgium,Loon studentenjob,362.24,Income,Student job,Transfer
+student,2026-08-28,18:55,NMBS,Aankoop,-10.36,Transport,Train,Card
+student,2026-08-29,00:20,Café Paris Hasselt,Aankoop,-39.12,Drinks & nightlife,Bars,Card
+student,2026-08-29,02:21,Uber Eats,Bestelling,-29.49,Food delivery,Uber Eats,Card
+student,2026-08-29,23:27,Café Hemingway Hasselt,Aankoop,-43.24,Drinks & nightlife,Bars,Bancontact
+student,2026-08-30,01:39,Uber Eats,Bestelling,-31.84,Food delivery,Uber Eats,Card
+student,2026-08-30,14:56,NMBS,Aankoop,-11.84,Transport,Train,Bancontact
+student,2026-08-31,15:22,Payconiq: Lukas,Terugbetaling,-14.7,Transfers to friends,Splitting bills,Payconiq
+student,2026-08-31,17:04,JBC,Aankoop,-44.74,Shopping,Clothing,Bancontact
+student,2026-09-01,08:53,Ouders Wouters,Zakgeld,250.0,Income,Allowance,Transfer
+student,2026-09-01,09:12,Immo Tiensepoort,Huur kot september,-495.0,Housing,Kot rent,Transfer
+student,2026-09-01,12:26,Panos,Aankoop,-11.9,Eating out,Snacks & fast food,Card
+student,2026-09-01,18:05,Uber Eats,Bestelling,-15.07,Food delivery,Uber Eats,Card
+student,2026-09-03,16:13,Frituur De Pits,Aankoop,-6.87,Eating out,Snacks & fast food,Card
+student,2026-09-04,07:03,Spotify,Premium Student,-5.99,Subscriptions,Music,Card
+student,2026-09-04,15:01,Colruyt,Aankoop,-20.66,Drinks & nightlife,Beer & night shop,Payconiq
+student,2026-09-05,00:03,Den Ouden Brouwer,Aankoop,-28.04,Drinks & nightlife,Bars,Bancontact
+student,2026-09-08,11:30,KU Leuven,Inschrijvingsgeld 2026-2027,-1150.0,Education,Tuition,Transfer
+student,2026-09-08,18:24,Frituur De Pits,Aankoop,-9.17,Eating out,Snacks & fast food,Bancontact
+student,2026-09-09,07:56,Netflix,Standard met reclame,-7.99,Subscriptions,Streaming,Card
+student,2026-09-09,19:48,Uber Eats,Bestelling,-17.36,Food delivery,Uber Eats,Card
+student,2026-09-10,15:51,Frituur De Pits,Aankoop,-12.44,Eating out,Snacks & fast food,Payconiq
+student,2026-09-11,09:38,Mobile Vikings,Abonnement,-15.0,Subscriptions,Mobile,Direct debit
+student,2026-09-11,15:39,Carrefour Market,Aankoop,-16.04,Drinks & nightlife,Beer & night shop,Card
+student,2026-09-12,20:13,Payconiq: Jonas,Terugbetaling,-19.59,Transfers to friends,Splitting bills,Payconiq
+student,2026-09-12,21:49,Café Paris Hasselt,Aankoop,-9.95,Drinks & nightlife,Bars,Bancontact
+student,2026-09-13,08:56,Apple,iCloud+ 50 GB,-0.99,Subscriptions,Apps & cloud,Card
+student,2026-09-13,21:31,Payconiq: Emma,Terugbetaling,-13.05,Transfers to friends,Splitting bills,Payconiq
+student,2026-09-14,15:20,Action Leuven,Spullen kot,-46.8,Household,Kot supplies,Bancontact
+student,2026-09-14,17:05,IKEA Zaventem,"Bureaulamp, rek",-79.0,Household,Kot supplies,Bancontact
+student,2026-09-15,13:35,Panos,Aankoop,-7.79,Eating out,Snacks & fast food,Card
+student,2026-09-15,13:36,Alma,Aankoop,-3.11,Eating out,Student restaurant,Payconiq
+student,2026-09-15,21:42,Uber Eats,Bestelling,-18.38,Food delivery,Uber Eats,Card
+student,2026-09-16,13:44,Alma 2,Aankoop,-4.46,Eating out,Student restaurant,Payconiq
+student,2026-09-16,22:05,Café Commerce,Aankoop,-26.45,Drinks & nightlife,Bars,Card
+student,2026-09-17,07:06,Basic-Fit,Premium lidmaatschap,-29.99,Hobbies,Gym,Direct debit
+student,2026-09-17,12:15,Alma,Aankoop,-3.04,Eating out,Student restaurant,Bancontact
+student,2026-09-18,02:45,De Giraf,Aankoop,-49.14,Drinks & nightlife,Bars,Payconiq
+student,2026-09-18,06:00,Delhaize Leuven,Loon weekendjob,113.92,Income,Student job,Transfer
+student,2026-09-18,12:44,Alma 2,Aankoop,-3.77,Eating out,Student restaurant,Bancontact
+student,2026-09-18,20:03,Uber Eats,Bestelling,-15.91,Food delivery,Uber Eats,Card
+student,2026-09-19,19:30,Uber Eats,Bestelling,-16.12,Food delivery,Uber Eats,Card
+student,2026-09-21,12:14,Alma,Aankoop,-3.84,Eating out,Student restaurant,Bancontact
+student,2026-09-22,12:18,Alma,Aankoop,-5.07,Eating out,Student restaurant,Bancontact
+student,2026-09-22,13:40,Acco,Cursussen semester 1,-142.6,Education,Books & courses,Bancontact
+student,2026-09-22,19:32,Uber Eats,Bestelling,-24.0,Food delivery,Uber Eats,Card
+student,2026-09-23,13:08,Alma 2,Aankoop,-4.41,Eating out,Student restaurant,Card
+student,2026-09-23,21:08,Café Belge,Aankoop,-41.84,Drinks & nightlife,Bars,Payconiq
+student,2026-09-24,13:47,Alma,Aankoop,-3.36,Eating out,Student restaurant,Payconiq
+student,2026-09-24,19:40,Aldi Leuven,Aankoop,-20.05,Groceries,Supermarket,Card
+student,2026-09-24,20:10,VTK Leuven,Lidkaart studentenvereniging,-15.0,Drinks & nightlife,Student club,Payconiq
+student,2026-09-25,08:49,Delhaize Leuven,Loon weekendjob,108.9,Income,Student job,Transfer
+student,2026-09-25,12:45,Alma,Aankoop,-3.15,Eating out,Student restaurant,Payconiq
+student,2026-09-25,16:47,Carrefour Express Leuven,Aankoop,-32.55,Groceries,Supermarket,Bancontact
+student,2026-09-26,18:38,Delhaize Leuven,Aankoop,-6.44,Groceries,Supermarket,Card
+student,2026-09-28,13:29,Carrefour Express Leuven,Aankoop,-16.06,Groceries,Supermarket,Bancontact
+student,2026-09-28,18:24,Primark,Aankoop,-63.06,Shopping,Clothing,Bancontact
+student,2026-09-28,21:32,Uber Eats,Bestelling,-20.17,Food delivery,Uber Eats,Card
+student,2026-09-29,12:04,Carrefour Express Leuven,Aankoop,-8.3,Groceries,Supermarket,Bancontact
+student,2026-09-29,20:30,Uber Eats,Bestelling,-14.05,Food delivery,Uber Eats,Card
+student,2026-09-29,21:30,VTK Leuven,Cantus,-12.0,Drinks & nightlife,Student club,Payconiq
+student,2026-09-30,12:17,Alma 2,Aankoop,-5.62,Eating out,Student restaurant,Card
+student,2026-09-30,21:18,Nachtwinkel Naamsestraat,Aankoop,-11.3,Drinks & nightlife,Beer & night shop,Card

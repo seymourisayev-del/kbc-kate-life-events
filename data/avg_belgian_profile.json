@@ -1,0 +1,39 @@
+{
+  "id": "avg",
+  "name": "Sofie Claes",
+  "first_name": "Sofie",
+  "age": 41,
+  "segment": "Typical Belgian household: couple, one child (9), owner with a mortgage, one car",
+  "address": "Edegemsestraat 58, 2640 Mortsel",
+  "start_balance": 4850,
+  "tone": "Friendly and practical. Busy, likes quick answers with one concrete number.",
+  "products": [
+    {
+      "type": "account",
+      "name": "KBC Plus Account (joint)"
+    },
+    {
+      "type": "savings",
+      "name": "KBC Start2Save"
+    },
+    {
+      "type": "mortgage",
+      "name": "KBC Home Loan"
+    },
+    {
+      "type": "home",
+      "name": "KBC Home Insurance (owner)",
+      "annual_premium": 520
+    },
+    {
+      "type": "car",
+      "name": "KBC Car Insurance",
+      "annual_premium": 690
+    },
+    {
+      "type": "family",
+      "name": "KBC Family Liability",
+      "annual_premium": 95
+    }
+  ]
+}

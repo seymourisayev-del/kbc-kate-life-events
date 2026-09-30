@@ -1,4 +1,4 @@
-persona_id,date,counterparty,description,amount
+﻿persona_id,date,counterparty,description,amount
 janssens,2026-04-01,Immo Dijle,"Huur appartement Bruul 22, 2800 Mechelen",-1150.0
 janssens,2026-04-03,Engie,Voorschot elektriciteit en gas,-145.0
 janssens,2026-04-04,bol.com,Bancontact,-64.1

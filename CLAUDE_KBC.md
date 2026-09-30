@@ -72,14 +72,15 @@ When I paste it: run the grill-me skill first, then commit to ONE plan within 15
 
 ## Demo script (under 3 min, demo only, no slides or pitch)
 The pain and the € number are spoken over the demo, never as separate slides.
-1. Before (0:00–0:20): Lotte, 26, sidebar clock on 20 Aug. Normal KBC Mobile, bank view "quiet".
-   Say: moving is a dozen admin tasks and people end up uninsured.
-2. Kate notices (0:20–0:45): drag the clock to 1 Sep: deposit + new rent, "watching", Kate stays
-   silent below 70%. Drag to 30 Sep: Kate card appears, signal transactions highlighted.
-3. AI moment (0:45–1:40): Talk to Kate (live LLM), "Yes, I'm moving", checklist shows the tenant
-   fire insurance she was missing, approve → done screen with hours saved, 🔊 Hear Kate.
-4. Adapts (1:40–2:15): switch to the Janssens family: same engine, but buyers get owner cover and
-   debt balance insurance, in a different tone. Optionally set "Kate speaks" to Nederlands.
-5. Bank view (2:15–2:50): signals with evidence, Marc (control) stays quiet, the € per 10k
-   customers number, then the Plug-ins tab (baby / car / job) to show it scales.
+Three stories, one idea: Kate reads your payments and keeps your cover and budget in step with your life.
+1. Moving, Lotte (0:00–1:10): clock on 20 Aug, nothing happens → drag to 30 Sep, Kate card appears
+   → Talk to Kate → "Yes, I'm moving" → checklist with the tenant fire insurance she was missing
+   → approve → done screen. Glance right: bank view confidence + € per 10k customers.
+2. Trip cover, Sofie (1:10–2:00): tap the mic (or the 🎤 question button): "We're going to
+   Normandy... are we covered?" Kate answers out loud: liability and home covered, medical abroad,
+   cancellation and car breakdown not → "Fix it" in one tap. Kate found the trip from the booking.
+3. Financial Care, Arne (2:00–2:50): clock on 31 Aug, Kate quiet (healthy). Drag to 30 Sep: tuition
+   + kot rent → strain → Kate offers 3 modes. Tap Mode 3: rent first, round-ups, gym to Basic, each
+   explained with Undo. Say that Mode 1 turns Kate silent and Mode 2 only suggests.
+Cut if over time: the bank-view glance in story 1. Janssens, Marc and the Plug-ins tab are for Q&A.
 Hit "Restart demo" in the sidebar before every run.

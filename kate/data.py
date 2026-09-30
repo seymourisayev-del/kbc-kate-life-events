@@ -159,5 +159,5 @@ if __name__ == "__main__":
     DATA.mkdir(exist_ok=True)
     (DATA / "personas.json").write_text(json.dumps(PERSONAS, indent=2, ensure_ascii=False), encoding="utf-8")
     df = generate()
-    df.to_csv(DATA / "transactions.csv", index=False)
+    df.to_csv(DATA / "transactions.csv", index=False, encoding="utf-8-sig")
     print(f"{len(PERSONAS)} personas, {len(df)} transactions -> {DATA}")

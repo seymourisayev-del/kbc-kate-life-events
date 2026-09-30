@@ -43,7 +43,41 @@ except StopIteration:
     reached_done = False
 good = reached_done and not app.exception
 ok &= good
-print(f"[{'OK' if good else 'FAIL'}]   app flow home -> Kate -> checklist -> done"
+print(f"[{'OK' if good else 'FAIL'}]   story 1: home -> Kate -> checklist -> done"
       + "".join(f"\n       {e.value}" for e in app.exception))
+
+
+def story(index: int):
+    app = AppTest.from_file(str(ROOT / "app.py")).run(timeout=60)
+    app.sidebar.radio[0].set_value(app.sidebar.radio[0].options[index]).run(timeout=60)
+    return app
+
+
+def report(name: str, app, good: bool):
+    global ok
+    good = good and not app.exception
+    ok &= good
+    print(f"[{'OK' if good else 'FAIL'}]   {name}" + "".join(f"\n       {e.value}" for e in app.exception))
+
+
+try:
+    app = story(1)
+    click(app, next(b.label for b in app.button if b.label.startswith("🎤")))
+    click(app, next(b.label for b in app.button if b.label.startswith("Fix it")))
+    report("story 2: ask -> cover check -> fix", app, any("Covered" in m.value for m in app.markdown))
+except StopIteration:
+    report("story 2: ask -> cover check -> fix", app, False)
+
+for mode in (1, 2, 3):
+    try:
+        app = story(2)
+        click(app, next(b.label for b in app.button if b.key == f"mode_{mode}"))
+        if mode == 2:
+            click(app, "Do it")
+        if mode == 3:
+            click(app, "Undo")
+        report(f"story 3: strain -> mode {mode}", app, any(b.label == "Change how Kate helps" for b in app.button))
+    except StopIteration:
+        report(f"story 3: strain -> mode {mode}", app, False)
 
 sys.exit(0 if ok else 1)

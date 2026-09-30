@@ -1,0 +1,179 @@
+﻿persona_id,date,counterparty,description,amount,category,subcategory,payment_method
+avg,2026-07-01,KBC Woonkrediet,Aflossing woonkrediet,-1045.6,Housing,Mortgage,Direct debit
+avg,2026-07-02,Albert Heijn,Aankoop,-48.95,Groceries,Supermarket,Bancontact
+avg,2026-07-02,KBC Start2Save,Maandelijkse spaaropdracht,-300.0,Savings,Savings plan,Standing order
+avg,2026-07-02,Batopin,Geldafhaling,-60.0,Cash,ATM withdrawal,Cash withdrawal
+avg,2026-07-02,Esso,Aankoop,-79.38,Transport,Fuel,Bancontact
+avg,2026-07-03,Game Mania,Aankoop,-14.67,Hobbies,Hobby shops,Payconiq
+avg,2026-07-03,Basic-Fit,Lidmaatschap,-29.99,Hobbies,Sports,Direct debit
+avg,2026-07-04,C&A,Aankoop,-32.55,Shopping,Products online & clothing,Bancontact
+avg,2026-07-04,Action,Aankoop,-55.04,Household,Household items,Bancontact
+avg,2026-07-04,Albert Heijn,Aankoop,-43.91,Groceries,Supermarket,Bancontact
+avg,2026-07-05,Infino,Groeipakket,187.13,Income,Child benefit,Transfer
+avg,2026-07-05,Frituur 't Hoekske,Aankoop,-28.74,Entertainment,Eating out,Bancontact
+avg,2026-07-05,Action,Aankoop,-27.29,Household,Household items,Bancontact
+avg,2026-07-05,Carrefour,Aankoop,-75.76,Groceries,Supermarket,Bancontact
+avg,2026-07-06,Sanef,Péage A26,-38.2,Transport,Tolls & parking,Card
+avg,2026-07-06,Camping Les Pins,Verblijf 7 nachten,-640.0,Travel,Accommodation,Card
+avg,2026-07-07,Carrefour Market Annecy,Courses,-84.35,Travel,Food abroad,Card
+avg,2026-07-08,Engie,Voorschot aardgas,-118.0,Energy,Gas,Direct debit
+avg,2026-07-08,Engie,Voorschot elektriciteit,-94.0,Energy,Electricity,Direct debit
+avg,2026-07-09,Restaurant Le Lac,Repas,-96.5,Travel,Food abroad,Card
+avg,2026-07-10,Intermarché Annecy,Courses,-61.1,Travel,Food abroad,Card
+avg,2026-07-10,KBC Verzekeringen,"Premie woning, auto, familiale",-108.75,Insurance,"Home, car & family",Direct debit
+avg,2026-07-11,TotalEnergies Chambéry,Carburant,-78.4,Transport,Fuel,Card
+avg,2026-07-12,water-link,Voorschot water,-36.5,Utilities,Water,Direct debit
+avg,2026-07-13,Sanef,Péage A26,-38.2,Transport,Tolls & parking,Card
+avg,2026-07-14,Tennisclub Mortsel,Lidgeld jeugd,-22.0,Hobbies,Sports,Direct debit
+avg,2026-07-14,Batopin,Geldafhaling,-50.0,Cash,ATM withdrawal,Cash withdrawal
+avg,2026-07-14,Huisarts Dr. Wouters,Aankoop,-12.68,Health,Pharmacy & doctor,Bancontact
+avg,2026-07-14,bol.com,Aankoop,-30.36,Shopping,Products online & clothing,Payconiq
+avg,2026-07-14,Pizza Hut,Aankoop,-43.12,Entertainment,Eating out,Payconiq
+avg,2026-07-15,Telenet,Internet en tv,-89.0,Utilities,Internet & TV,Direct debit
+avg,2026-07-15,Brico,Aankoop,-29.6,Household,Household items,Payconiq
+avg,2026-07-15,Albert Heijn,Aankoop,-25.58,Groceries,Supermarket,Bancontact
+avg,2026-07-16,Bakkerij Van Loock,Aankoop,-12.81,Groceries,Bakery & butcher,Payconiq
+avg,2026-07-16,Takeaway.com,Aankoop,-13.71,Entertainment,Eating out,Bancontact
+avg,2026-07-16,Delhaize,Aankoop,-80.27,Groceries,Supermarket,Payconiq
+avg,2026-07-17,Aldi,Aankoop,-110.29,Groceries,Supermarket,Bancontact
+avg,2026-07-17,Orange Belgium,Mobiel 2 abonnementen,-44.0,Utilities,Mobile,Direct debit
+avg,2026-07-18,Pizza Hut,Aankoop,-16.98,Entertainment,Eating out,Bancontact
+avg,2026-07-18,Esso,Aankoop,-54.87,Transport,Fuel,Payconiq
+avg,2026-07-18,Action,Aankoop,-32.33,Household,Household items,Bancontact
+avg,2026-07-19,Brico,Aankoop,-44.3,Household,Household items,Bancontact
+avg,2026-07-19,Q8,Aankoop,-55.89,Transport,Fuel,Bancontact
+avg,2026-07-19,Carrefour,Aankoop,-19.83,Groceries,Supermarket,Bancontact
+avg,2026-07-20,Sportkamp Sporty,Sportkamp week 30,-135.0,Children,Holiday camps,Transfer
+avg,2026-07-20,Netflix,Abonnement,-13.99,Entertainment,Streaming,Card
+avg,2026-07-21,Spotify,Premium Family,-17.99,Entertainment,Streaming,Card
+avg,2026-07-22,Decathlon,Aankoop,-43.07,Hobbies,Hobby shops,Bancontact
+avg,2026-07-23,Disney+,Abonnement,-9.99,Entertainment,Streaming,Card
+avg,2026-07-23,Esso,Aankoop,-55.54,Transport,Fuel,Payconiq
+avg,2026-07-24,Carrefour,Aankoop,-85.92,Groceries,Supermarket,Bancontact
+avg,2026-07-25,Brightfield NV,Loon Sofie,2940.12,Income,Salary,Transfer
+avg,2026-07-26,Zalando,Aankoop,-97.54,Shopping,Products online & clothing,Bancontact
+avg,2026-07-27,HEMA,Aankoop,-59.1,Household,Household items,Bancontact
+avg,2026-07-27,Pizza Hut,Aankoop,-15.92,Entertainment,Eating out,Payconiq
+avg,2026-07-27,Colruyt Group,Loon Pieter,2610.55,Income,Salary,Transfer
+avg,2026-07-27,Bakkerij Van Loock,Aankoop,-5.9,Groceries,Bakery & butcher,Bancontact
+avg,2026-07-28,Albert Heijn,Aankoop,-19.1,Groceries,Supermarket,Bancontact
+avg,2026-07-28,Garage Verhaegen,Onderhoud auto,-289.0,Transport,Car maintenance,Bancontact
+avg,2026-07-29,Brico,Aankoop,-65.69,Household,Household items,Payconiq
+avg,2026-08-01,KBC Woonkrediet,Aflossing woonkrediet,-1045.6,Housing,Mortgage,Direct debit
+avg,2026-08-01,NMBS,Aankoop,-16.76,Transport,Public transport & parking,Bancontact
+avg,2026-08-02,Albert Heijn,Aankoop,-70.69,Groceries,Supermarket,Payconiq
+avg,2026-08-02,KBC Start2Save,Maandelijkse spaaropdracht,-300.0,Savings,Savings plan,Standing order
+avg,2026-08-03,Speelplein Mortsel,Speelpleinwerking,-45.0,Children,Holiday camps,Transfer
+avg,2026-08-03,Basic-Fit,Lidmaatschap,-29.99,Hobbies,Sports,Direct debit
+avg,2026-08-04,Huisarts Dr. Wouters,Aankoop,-39.02,Health,Pharmacy & doctor,Payconiq
+avg,2026-08-05,Bakkerij Van Loock,Aankoop,-5.31,Groceries,Bakery & butcher,Bancontact
+avg,2026-08-05,Infino,Groeipakket,187.13,Income,Child benefit,Transfer
+avg,2026-08-06,Decathlon,Aankoop,-24.31,Hobbies,Hobby shops,Payconiq
+avg,2026-08-06,Zalando,Aankoop,-27.24,Shopping,Products online & clothing,Bancontact
+avg,2026-08-07,Frituur 't Hoekske,Aankoop,-34.79,Entertainment,Eating out,Payconiq
+avg,2026-08-07,Slagerij De Wit,Aankoop,-14.23,Groceries,Bakery & butcher,Bancontact
+avg,2026-08-08,Engie,Voorschot elektriciteit,-94.0,Energy,Electricity,Direct debit
+avg,2026-08-08,Engie,Voorschot aardgas,-118.0,Energy,Gas,Direct debit
+avg,2026-08-08,Delhaize,Aankoop,-73.38,Groceries,Supermarket,Payconiq
+avg,2026-08-09,Bakkerij Van Loock,Aankoop,-7.35,Groceries,Bakery & butcher,Payconiq
+avg,2026-08-10,Aldi,Aankoop,-38.5,Groceries,Supermarket,Payconiq
+avg,2026-08-10,KBC Verzekeringen,"Premie woning, auto, familiale",-108.75,Insurance,"Home, car & family",Direct debit
+avg,2026-08-11,Albert Heijn,Aankoop,-21.82,Groceries,Supermarket,Payconiq
+avg,2026-08-12,Colruyt,Aankoop,-115.05,Groceries,Supermarket,Bancontact
+avg,2026-08-12,water-link,Voorschot water,-36.5,Utilities,Water,Direct debit
+avg,2026-08-12,Coolblue,Aankoop,-80.7,Shopping,Products online & clothing,Bancontact
+avg,2026-08-13,Bakkerij Van Loock,Aankoop,-15.09,Groceries,Bakery & butcher,Bancontact
+avg,2026-08-13,Delhaize,Aankoop,-112.03,Groceries,Supermarket,Payconiq
+avg,2026-08-14,Tennisclub Mortsel,Lidgeld jeugd,-22.0,Hobbies,Sports,Direct debit
+avg,2026-08-15,Telenet,Internet en tv,-89.0,Utilities,Internet & TV,Direct debit
+avg,2026-08-15,bol.com,Aankoop,-46.85,Shopping,Products online & clothing,Payconiq
+avg,2026-08-15,Ticketmaster,Concert Sportpaleis,-118.0,Entertainment,Concerts & events,Card
+avg,2026-08-17,Orange Belgium,Mobiel 2 abonnementen,-44.0,Utilities,Mobile,Direct debit
+avg,2026-08-17,Bakkerij Van Loock,Aankoop,-12.62,Groceries,Bakery & butcher,Payconiq
+avg,2026-08-18,C&A,Aankoop,-70.56,Shopping,Products online & clothing,Bancontact
+avg,2026-08-19,Bakkerij Van Loock,Aankoop,-10.94,Groceries,Bakery & butcher,Payconiq
+avg,2026-08-20,bol.com,Aankoop,-42.88,Shopping,Products online & clothing,Bancontact
+avg,2026-08-20,Netflix,Abonnement,-13.99,Entertainment,Streaming,Card
+avg,2026-08-20,Q8,Aankoop,-72.04,Transport,Fuel,Payconiq
+avg,2026-08-21,Spotify,Premium Family,-17.99,Entertainment,Streaming,Card
+avg,2026-08-21,Lidl,Aankoop,-99.35,Groceries,Supermarket,Bancontact
+avg,2026-08-21,Frituur 't Hoekske,Aankoop,-41.17,Entertainment,Eating out,Bancontact
+avg,2026-08-22,TotalEnergies,Aankoop,-63.48,Transport,Fuel,Bancontact
+avg,2026-08-23,Disney+,Abonnement,-9.99,Entertainment,Streaming,Card
+avg,2026-08-24,Carrefour,Aankoop,-45.69,Groceries,Supermarket,Payconiq
+avg,2026-08-24,Standaard Boekhandel,Schoolgerief,-86.4,Children,School,Bancontact
+avg,2026-08-25,Brightfield NV,Loon Sofie,2940.12,Income,Salary,Transfer
+avg,2026-08-25,Aldi,Aankoop,-24.2,Groceries,Supermarket,Bancontact
+avg,2026-08-25,Frituur 't Hoekske,Aankoop,-15.11,Entertainment,Eating out,Payconiq
+avg,2026-08-26,Zeeman,Kinderkleding,-54.9,Shopping,Clothing,Bancontact
+avg,2026-08-26,HEMA,Aankoop,-13.67,Household,Household items,Payconiq
+avg,2026-08-26,Delhaize,Aankoop,-53.06,Groceries,Supermarket,Payconiq
+avg,2026-08-27,Colruyt Group,Loon Pieter,2610.55,Income,Salary,Transfer
+avg,2026-08-27,Lidl,Aankoop,-95.42,Groceries,Supermarket,Bancontact
+avg,2026-08-28,Bakkerij Van Loock,Aankoop,-8.34,Groceries,Bakery & butcher,Payconiq
+avg,2026-08-30,Albert Heijn,Aankoop,-116.71,Groceries,Supermarket,Payconiq
+avg,2026-08-31,Coolblue,Aankoop,-62.53,Shopping,Products online & clothing,Payconiq
+avg,2026-09-01,Frituur 't Hoekske,Aankoop,-23.3,Entertainment,Eating out,Bancontact
+avg,2026-09-01,KBC Woonkrediet,Aflossing woonkrediet,-1045.6,Housing,Mortgage,Direct debit
+avg,2026-09-01,Action,Aankoop,-41.0,Household,Household items,Payconiq
+avg,2026-09-02,KBC Start2Save,Maandelijkse spaaropdracht,-300.0,Savings,Savings plan,Standing order
+avg,2026-09-02,Sint-Jozefschool,Schoolfactuur september,-62.0,Children,School,Transfer
+avg,2026-09-03,Lidl,Aankoop,-81.05,Groceries,Supermarket,Bancontact
+avg,2026-09-03,NMBS,Aankoop,-9.43,Transport,Public transport & parking,Bancontact
+avg,2026-09-03,Basic-Fit,Lidmaatschap,-29.99,Hobbies,Sports,Direct debit
+avg,2026-09-04,Delhaize,Aankoop,-60.89,Groceries,Supermarket,Bancontact
+avg,2026-09-05,Infino,Groeipakket,187.13,Income,Child benefit,Transfer
+avg,2026-09-05,Pizza Hut,Aankoop,-15.91,Entertainment,Eating out,Bancontact
+avg,2026-09-05,TotalEnergies,Aankoop,-61.06,Transport,Fuel,Payconiq
+avg,2026-09-05,Delhaize,Aankoop,-29.71,Groceries,Supermarket,Payconiq
+avg,2026-09-06,Slagerij De Wit,Aankoop,-14.61,Groceries,Bakery & butcher,Bancontact
+avg,2026-09-06,Lidl,Aankoop,-36.87,Groceries,Supermarket,Bancontact
+avg,2026-09-07,Panos,Aankoop,-45.27,Entertainment,Eating out,Bancontact
+avg,2026-09-07,Lidl,Aankoop,-40.18,Groceries,Supermarket,Bancontact
+avg,2026-09-08,Engie,Voorschot elektriciteit,-94.0,Energy,Electricity,Direct debit
+avg,2026-09-08,Engie,Voorschot aardgas,-118.0,Energy,Gas,Direct debit
+avg,2026-09-09,Hubo,Aankoop,-23.27,Household,Household items,Payconiq
+avg,2026-09-09,Colruyt,Aankoop,-76.33,Groceries,Supermarket,Bancontact
+avg,2026-09-09,Bakkerij Van Loock,Aankoop,-16.83,Groceries,Bakery & butcher,Bancontact
+avg,2026-09-10,KBC Verzekeringen,"Premie woning, auto, familiale",-108.75,Insurance,"Home, car & family",Direct debit
+avg,2026-09-11,Albert Heijn,Aankoop,-49.7,Groceries,Supermarket,Bancontact
+avg,2026-09-12,Kinepolis Antwerpen,Tickets,-38.5,Entertainment,Cinema,Card
+avg,2026-09-12,Club,Aankoop,-64.54,Hobbies,Hobby shops,Payconiq
+avg,2026-09-12,water-link,Voorschot water,-36.5,Utilities,Water,Direct debit
+avg,2026-09-12,Brico,Aankoop,-30.14,Household,Household items,Payconiq
+avg,2026-09-13,Takeaway.com,Aankoop,-18.79,Entertainment,Eating out,Bancontact
+avg,2026-09-14,Bakkerij Van Loock,Aankoop,-5.32,Groceries,Bakery & butcher,Payconiq
+avg,2026-09-14,Colruyt,Aankoop,-102.34,Groceries,Supermarket,Bancontact
+avg,2026-09-14,Tennisclub Mortsel,Lidgeld jeugd,-22.0,Hobbies,Sports,Direct debit
+avg,2026-09-15,Slagerij De Wit,Aankoop,-6.88,Groceries,Bakery & butcher,Bancontact
+avg,2026-09-15,Albert Heijn,Aankoop,-25.41,Groceries,Supermarket,Bancontact
+avg,2026-09-15,Telenet,Internet en tv,-89.0,Utilities,Internet & TV,Direct debit
+avg,2026-09-17,Frituur 't Hoekske,Aankoop,-37.68,Entertainment,Eating out,Payconiq
+avg,2026-09-17,Albert Heijn,Aankoop,-90.77,Groceries,Supermarket,Bancontact
+avg,2026-09-17,Orange Belgium,Mobiel 2 abonnementen,-44.0,Utilities,Mobile,Direct debit
+avg,2026-09-17,Coolblue,Aankoop,-76.63,Shopping,Products online & clothing,Bancontact
+avg,2026-09-18,Pierre & Vacances,Verblijf Normandie 26/10 - 01/11,-690.0,Travel,Accommodation,Card
+avg,2026-09-18,Frituur 't Hoekske,Aankoop,-47.05,Entertainment,Eating out,Bancontact
+avg,2026-09-19,Albert Heijn,Aankoop,-110.75,Groceries,Supermarket,Bancontact
+avg,2026-09-19,Slagerij De Wit,Aankoop,-17.08,Groceries,Bakery & butcher,Bancontact
+avg,2026-09-19,Engie,Jaarafrekening energie,-212.37,Energy,Annual settlement,Direct debit
+avg,2026-09-20,Delhaize,Aankoop,-97.84,Groceries,Supermarket,Payconiq
+avg,2026-09-20,bol.com,Aankoop,-31.55,Shopping,Products online & clothing,Bancontact
+avg,2026-09-20,Netflix,Abonnement,-13.99,Entertainment,Streaming,Card
+avg,2026-09-21,Spotify,Premium Family,-17.99,Entertainment,Streaming,Card
+avg,2026-09-21,Bakkerij Van Loock,Aankoop,-11.28,Groceries,Bakery & butcher,Bancontact
+avg,2026-09-21,Panos,Aankoop,-36.16,Entertainment,Eating out,Bancontact
+avg,2026-09-23,CM Mutualiteit,Ledenbijdrage Q4,-39.0,Health,Health insurance,Direct debit
+avg,2026-09-23,Disney+,Abonnement,-9.99,Entertainment,Streaming,Card
+avg,2026-09-23,C&A,Aankoop,-83.11,Shopping,Products online & clothing,Bancontact
+avg,2026-09-24,Delhaize,Aankoop,-78.53,Groceries,Supermarket,Bancontact
+avg,2026-09-24,Slagerij De Wit,Aankoop,-10.26,Groceries,Bakery & butcher,Payconiq
+avg,2026-09-25,Brightfield NV,Loon Sofie,2940.12,Income,Salary,Transfer
+avg,2026-09-26,Colruyt,Aankoop,-71.0,Groceries,Supermarket,Bancontact
+avg,2026-09-26,Standaard Boekhandel,Aankoop,-19.46,Hobbies,Hobby shops,Bancontact
+avg,2026-09-27,Colruyt Group,Loon Pieter,2610.55,Income,Salary,Transfer
+avg,2026-09-27,Slagerij De Wit,Aankoop,-4.44,Groceries,Bakery & butcher,Bancontact
+avg,2026-09-28,Lidl,Aankoop,-50.22,Groceries,Supermarket,Bancontact
+avg,2026-09-28,Bakkerij Van Loock,Aankoop,-12.9,Groceries,Bakery & butcher,Payconiq
+avg,2026-09-29,Aldi,Aankoop,-60.88,Groceries,Supermarket,Bancontact
+avg,2026-09-30,Aldi,Aankoop,-85.79,Groceries,Supermarket,Bancontact

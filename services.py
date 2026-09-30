@@ -68,6 +68,15 @@ def ask_llm(prompt: str, system: str | None = None) -> str:
     return chat([{"role": "user", "content": prompt}], system)
 
 
+def transcribe(audio: bytes) -> str:
+    """Speech to text with ElevenLabs Scribe; `audio` is e.g. the bytes from st.audio_input."""
+    from elevenlabs.client import ElevenLabs
+
+    client = ElevenLabs(api_key=os.environ["ELEVENLABS_API_KEY"])
+    result = client.speech_to_text.convert(file=audio, model_id=os.getenv("ELEVENLABS_STT_MODEL", "scribe_v1"))
+    return result.text
+
+
 def speak(text: str) -> bytes:
     """Return MP3 bytes; pass straight to st.audio(..., format='audio/mpeg')."""
     from elevenlabs.client import ElevenLabs

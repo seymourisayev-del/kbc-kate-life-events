@@ -1,0 +1,29 @@
+{
+  "id": "student",
+  "name": "Arne Wouters",
+  "first_name": "Arne",
+  "age": 20,
+  "segment": "Student, 2nd year engineering at KU Leuven, student job in summer",
+  "address": "Tiensestraat 112, 3000 Leuven (kot); parents in Hasselt",
+  "start_balance": 640,
+  "tone": "Casual, short, a bit of humour, never preachy about drinking or spending.",
+  "products": [
+    {
+      "type": "account",
+      "name": "KBC Student Account"
+    },
+    {
+      "type": "card",
+      "name": "KBC Debit Card"
+    }
+  ],
+  "notes": "No insurance of his own: relies on his parents' family liability and home insurance.",
+  "gym_usage": {
+    "tier": "Premium",
+    "price": 29.99,
+    "basic_price": 19.99,
+    "clubs_used": 1,
+    "buddy_visits": 0,
+    "visits_30d": 3
+  }
+}
