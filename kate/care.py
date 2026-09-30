@@ -9,6 +9,8 @@ from pathlib import Path
 
 import pandas as pd
 
+from kate.persona import STYLE
+
 SPEC = (Path(__file__).parent / "prompts" / "financial_care.md").read_text(encoding="utf-8")
 
 DISCRETIONARY = {"Drinks & nightlife", "Food delivery", "Eating out", "Shopping"}
@@ -132,7 +134,7 @@ Signals:
 # IN THIS APP
 You are replying inside a chat bubble in KBC Mobile. The app already shows the cards and numbers,
 so do not list them. Maximum 50 words, plain text, no markdown. Lines starting with [app] are
-instructions from the app, not from the customer."""
+instructions from the app, not from the customer. {STYLE}"""
 
 
 def fallback(profile: dict, state: dict, mode: int | None) -> str:

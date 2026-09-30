@@ -4,6 +4,11 @@ The fallbacks keep the demo alive when no LLM key is set or the network drops.
 """
 from kate.events import Action, Detection
 
+# Appended to every Kate prompt so live replies don't read as machine-written.
+STYLE = ("Write like a helpful person at the bank messaging a customer: plain words, short sentences, "
+         "contractions. No em dashes, no emojis, no slogans, no openers like 'Great question' or "
+         "'I'd be happy to help', and at most one exclamation mark.")
+
 
 def system_prompt(profile: dict, detection: Detection, actions: list[Action], language: str) -> str:
     signals = "\n".join(
@@ -33,6 +38,7 @@ Rules:
 - Only offer the actions listed above. Do not invent products, prices or cover.
 - Maximum 60 words per message. Plain text, no markdown, no lists.
 - Reply in {language}.
+- {STYLE}
 - Lines starting with [app] are instructions from the app, not from the customer."""
 
 

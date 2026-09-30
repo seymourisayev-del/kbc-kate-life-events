@@ -48,18 +48,18 @@ def render(profile: dict, txs: pd.DataFrame, today):
                     st.rerun()
             return
 
-        st.chat_message("user", avatar="🙂").write(care.MODES[s["mode"]])
+        st.chat_message("user", avatar=":material/person:").write(care.MODES[s["mode"]])
         key, text = _kate_message(profile, a, s)
         say(text, key)
 
         if s["mode"] == 1:
-            st.caption("🔕 Proactive tips off. Kate only answers when asked.")
+            st.caption("Proactive tips are off. Kate only answers when Arne asks her something.")
         elif s["mode"] == 2:
             total = 0.0
             for card in care.copilot_cards(profile, a):
                 done = card.id in s["accepted"]
                 with st.container(border=True):
-                    st.markdown(f"**{card.title}**  \n{card.detail}  \n💶 Saves about {euro(card.monthly)} / month")
+                    st.markdown(f"**{card.title}**  \n{card.detail}  \nSaves about {euro(card.monthly)} a month")
                     if done:
                         st.caption("✅ Done")
                         total += card.monthly
@@ -73,12 +73,12 @@ def render(profile: dict, txs: pd.DataFrame, today):
                         unsafe_allow_html=True)
             actions = care.autopilot_actions(profile, a)
             if not actions:
-                st.caption("Healthy cash flow: no rules active, spend guilt-free.")
+                st.caption("Cash flow is healthy, so Kate has no rules running.")
             total = 0.0
             for action in actions:
                 undone = action.id in s["undone"]
                 with st.container(border=True):
-                    st.markdown(f"{'↩️' if undone else '🤖'} **{action.title}**  \n{action.detail}")
+                    st.markdown(f"**{action.title}**  \n{action.detail}")
                     if undone:
                         st.caption("Undone")
                     else:

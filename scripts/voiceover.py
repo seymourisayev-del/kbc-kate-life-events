@@ -21,42 +21,44 @@ BYTES_PER_SECOND = 128_000 / 8  # mp3_44100_128
 # (id, what to do on screen, narration)
 SEGMENTS = [
     ("intro", "Story 1 selected, Lotte, clock on 20 Aug. Slow pan over phone + bank view.",
-     "This is Kate, the assistant in KBC Mobile, with one new skill. She reads the signals in your payments "
-     "and keeps your insurance and your budget in step with your life. Three customers, three moments."),
+     "We built an extension for Kate that uses what happens in your payments to keep your insurance and "
+     "budget up to date. Three customers."),
     ("moving_quiet", "Stay on 20 Aug. Bank view shows QUIET.",
-     "Meet Lotte, twenty-six. In August, nothing unusual. Kate stays quiet."),
+     "Lotte is twenty-six. In August her payments look normal, so Kate doesn't say anything."),
     ("moving_signals", "Drag clock to 1 Sep (WATCHING, 62%), pause, then to 30 Sep: Kate card + highlighted rows.",
-     "Then: a rental deposit in Ghent. Rent to a new landlord. A van rental. A new internet contract. "
-     "One signal means little. Together, Kate is ninety percent sure Lotte is moving, and only then does she "
-     "speak up."),
+     "In September there's a rental deposit for a flat in Ghent, rent to a new landlord and a van rental. "
+     "Together, Kate is ninety percent sure Lotte is moving, and that's when she speaks up."),
     ("moving_kate", "Talk to Kate → Yes, I'm moving → checklist appears. Hover the tenant fire insurance line.",
-     "Kate asks first; she never acts silently. Once Lotte confirms, she gets one checklist, built from her own "
-     "products. The big one: in her student room she was covered by someone else's policy. In her new flat she "
-     "is not."),
+     "She asks before she changes anything. Once Lotte says yes, Kate puts together a checklist based on the "
+     "products Lotte actually has. The one that matters most is fire insurance. In her student room someone "
+     "else's policy covered her. In the new flat, nothing does."),
     ("moving_done", "Approve → done screen. Glance at the bank view number.",
-     "A dozen admin tasks, done in one tap. And for KBC, the policy stays at the exact moment customers usually "
-     "switch."),
+     "Lotte approves it in one go. For KBC, this is usually the moment a customer takes their insurance "
+     "somewhere else."),
     ("trip_ask", "Story 2. Click the 🎤 Normandy question (or speak it). Let Kate's in-app answer play after this line.",
-     "Sofie, forty-one, just booked a week in Normandy for the autumn holiday. She simply asks."),
+     "Sofie is forty-one and just booked a week in Normandy for the autumn holiday. She asks Kate if they're "
+     "covered."),
     ("trip_result", "Cover list visible (✅/⚠️). Click Fix it → confirmation.",
-     "Kate found the trip from the booking payment and checked it against Sofie's policies. Liability and home: "
-     "covered. Medical costs abroad, cancellation and car breakdown: not. Fixed in one tap, before she leaves."),
+     "Kate already knew about the trip from the booking payment. Their liability and home insurance are fine. "
+     "Medical costs abroad, cancelling the booking and a breakdown on the way there aren't covered, and Sofie "
+     "can sort that out before they leave."),
     ("care_intro", "Story 3, clock on 31 Aug: 'Nothing to flag'. Drag to 30 Sep: strain message + 3 buttons.",
-     "Arne, twenty, student in Leuven. In August he's fine, so Kate leaves him alone. Then tuition and kot rent "
-     "land in the same month, and he's eight euros short for October."),
+     "Arne is a student in Leuven. In August, Kate leaves him alone. In September, tuition and kot rent hit in "
+     "the same month, and he's eight euros short for October's rent."),
     ("care_modes", "Hover over the three mode buttons.",
-     "Kate doesn't lecture. She asks how much help he wants: none at all, suggestions he approves, "
-     "or do what's best for me."),
+     "Kate asks how involved he wants her to be. He can turn the tips off, approve her suggestions one by one, "
+     "or let her handle it."),
     ("care_autopilot", "Click mode 3. Scroll the actions, click one Undo. Then drag clock back to 31 Aug: rules vanish.",
-     "On autopilot, rent and bills go first, card payments round up into a buffer, and his unused gym Premium "
-     "drops to Basic. Every action is explained, and every action can be undone. When money is healthy again, "
-     "the rules switch themselves off."),
+     "He lets her handle it. Rent money is kept aside first, card payments round up into a small buffer, and "
+     "his gym goes from Premium to Basic, since he only uses one club. Each change comes with a reason and an "
+     "undo button. Once his balance recovers, the rules stop."),
     ("scale", "Story 1 bank view → Plug-ins tab (Moving LIVE, baby / car / job PLANNED), then Business impact.",
-     "Behind all three is one engine: signals, confidence, actions. Next on the same engine: a new baby, a new "
-     "car, a new job. On illustrative assumptions, moving alone protects or wins around twenty-nine thousand "
-     "euros of premium per ten thousand customers, every year."),
+     "Next we'd add a new baby, a new car and a new job to the same rules. On assumptions we'd still check "
+     "against KBC's data, moving alone keeps or wins about twenty-nine thousand euros in premiums a year per "
+     "ten thousand customers."),
     ("close", "Back to Lotte's done screen or the KBC Mobile header.",
-     "Kate already suggests. With this, she notices, asks, and acts. Kate: one step ahead of your life."),
+     "Today Kate sends suggestions. With this extension, she can also follow through on them, once the "
+     "customer says yes."),
 ]
 
 

@@ -77,7 +77,7 @@ def _kate(state, profile, detection, actions, system):
         st.rerun()
     for message in state["chat"]:
         if not message.get("hidden"):
-            avatar = "🤖" if message["role"] == "assistant" else "🙂"
+            avatar = ":material/support_agent:" if message["role"] == "assistant" else ":material/person:"
             st.chat_message(message["role"], avatar=avatar).write(message["content"])
 
     def confirm(text: str):
@@ -125,7 +125,7 @@ def _done(state, profile):
         unsafe_allow_html=True,
     )
     closing = state["chat"][-1]["content"]
-    st.chat_message("assistant", avatar="🤖").write(closing)
+    st.chat_message("assistant", avatar=":material/support_agent:").write(closing)
     if os.getenv("ELEVENLABS_API_KEY") and st.button("🔊 Hear Kate", width="stretch"):
         try:
             with st.spinner("Generating voice..."):

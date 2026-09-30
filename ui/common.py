@@ -30,7 +30,7 @@ def voice_available() -> bool:
 
 def say(text: str, key: str):
     """Kate's bubble, plus a spoken version the first time when ElevenLabs is configured."""
-    st.chat_message("assistant", avatar="🤖").write(text)
+    st.chat_message("assistant", avatar=":material/support_agent:").write(text)
     if voice_available() and not st.session_state.get(f"spoken_{key}"):
         try:
             with st.spinner("Kate is speaking..."):

@@ -7,6 +7,7 @@ import streamlit as st
 
 import services
 from kate import coverage
+from kate.persona import STYLE
 from ui.common import kate_reply, phone_bar, say, voice_available
 from ui.theme import euro
 
@@ -26,7 +27,8 @@ Cover check against her KBC products:
 {lines}
 
 Rules: answer in at most 60 words, spoken style, no lists or markdown. Say first what is covered,
-then the gaps, then offer to fix the gaps in one tap. Only use the facts above; never invent cover."""
+then the gaps, then offer to fix the gaps in one tap. Only use the facts above; never invent cover.
+{STYLE}"""
 
 
 def _fallback(checks: list) -> str:
@@ -73,7 +75,7 @@ def render(profile: dict, txs: pd.DataFrame, today):
             st.rerun()
 
         if s["question"]:
-            st.chat_message("user", avatar="🙂").write(s["question"])
+            st.chat_message("user", avatar=":material/person:").write(s["question"])
             say(s["answer"], "trip")
             rows = "".join(
                 f"<div class='tx'><div>{'✅' if c.covered else '⚠️'} {escape(c.risk)}"

@@ -53,7 +53,7 @@ def render(profile: dict, detection, actions: list, portfolio: list[dict]):
             premium = sum(a.annual_premium for a in actions)
             st.caption(f"Inferred: {detection.facts['kind']} · new address {detection.facts['new_address']} · "
                        f"{len(actions)} actions prepared · {euro(premium)} annual premium at stake for this customer")
-        st.markdown("**Same engine, every customer**")
+        st.markdown("**All customers on the same rules**")
         st.dataframe(pd.DataFrame(portfolio), hide_index=True, width="stretch")
         live = st.session_state.get("llm_live")
         if live is not None:
