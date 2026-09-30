@@ -1,7 +1,7 @@
-"""The business number.  OWNER: pitch
+"""The business number.  OWNER: frontend (bank)
 
 Every value in ASSUMPTIONS is an illustrative placeholder: replace with sourced figures
-before the pitch and be ready to defend each one.
+before the demo and be ready to defend each one.
 """
 
 # key: (label, default, min, max, step)

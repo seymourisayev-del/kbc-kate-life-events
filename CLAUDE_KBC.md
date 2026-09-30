@@ -26,7 +26,7 @@ When I paste it: run the grill-me skill first, then commit to ONE plan within 15
 - Model work is capped at ~45 min: TabPFN (or XGBoost if data is too large) + SHAP is enough.
   No hyperparameter tuning, no model zoo, no deep learning.
 - If data is synthetic or messy, don't spend >20 min cleaning; fake-but-plausible is fine for the demo.
-- Push back hard if I start polishing the model instead of the UI/pitch.
+- Push back hard if I start polishing the model instead of the UI/demo.
 - Prefer boring, reliable stack choices; no new frameworks tonight.
 - Keep every answer short and actionable; we are on a clock.
 
@@ -34,7 +34,7 @@ When I paste it: run the grill-me skill first, then commit to ONE plan within 15
 - 0:00–0:20 grill + scope, pick ONE user and ONE workflow
 - 0:20–1:30 data + baseline model + explanations
 - 1:30–3:45 UI + AI feature (memo/chat/voice) + the € number
-- 3:45–4:30 pitch (3 min) + backup demo video
+- 3:45–4:30 rehearse the demo (under 3 min, no pitch) + record the backup video
 - 4:30–5:00 buffer, submit
 
 ## Stack (pre-scaffolded)
@@ -51,7 +51,7 @@ When I paste it: run the grill-me skill first, then commit to ONE plan within 15
 - Kate (KBC's assistant) runs on GPT-4.1 since Oct 2025; agentic AI is still "being explored".
 - Competitor ING is ahead on agentic back-office: agentic mortgage assistant (pilot Mar 2026, scaling),
   agentic KYC, a "hidden affluent client" detection model, >80% of chats resolved without humans.
-  → The "ING gap" is a good pitch angle: "this is what ING already does; here's KBC's version."
+  → The "ING gap": ING already does this kind of agentic work; this is KBC's version.
 
 ## Shortlist of likely problems (quick solution sketches)
 1. Startup/SME credit scoring (Innovation Banking): TabPFN + SHAP → analyst cockpit with
@@ -70,9 +70,16 @@ When I paste it: run the grill-me skill first, then commit to ONE plan within 15
 8. Next-best-action / hidden affluent: segment clients → next product → personalized
    Kate-style nudge → projected € uplift.
 
-## Pitch skeleton (3 min)
-1. Pain (20s): who suffers, how much it costs KBC today.
-2. Live demo (100s): the user does the task end-to-end, AI moment in the middle.
-3. Impact (30s): the € / hours number, and how it scales across KBC.
-4. Why now / why KBC (20s): the ING gap + Kate/agentic roadmap fit.
-5. Next step (10s): what a 4-week pilot would look like.
+## Demo script (under 3 min, demo only, no slides or pitch)
+The pain and the € number are spoken over the demo, never as separate slides.
+1. Before (0:00–0:20): Lotte, 26, sidebar clock on 20 Aug. Normal KBC Mobile, bank view "quiet".
+   Say: moving is a dozen admin tasks and people end up uninsured.
+2. Kate notices (0:20–0:45): drag the clock to 1 Sep: deposit + new rent, "watching", Kate stays
+   silent below 70%. Drag to 30 Sep: Kate card appears, signal transactions highlighted.
+3. AI moment (0:45–1:40): Talk to Kate (live LLM), "Yes, I'm moving", checklist shows the tenant
+   fire insurance she was missing, approve → done screen with hours saved, 🔊 Hear Kate.
+4. Adapts (1:40–2:15): switch to the Janssens family: same engine, but buyers get owner cover and
+   debt balance insurance, in a different tone. Optionally set "Kate speaks" to Nederlands.
+5. Bank view (2:15–2:50): signals with evidence, Marc (control) stays quiet, the € per 10k
+   customers number, then the Plug-ins tab (baby / car / job) to show it scales.
+Hit "Restart demo" in the sidebar before every run.

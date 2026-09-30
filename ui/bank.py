@@ -1,4 +1,4 @@
-"""Internal bank view: detection score, signals, business impact, plug-ins.  OWNER: frontend (bank) + pitch"""
+"""Internal bank view: detection score, signals, business impact, plug-ins.  OWNER: frontend (bank)"""
 import pandas as pd
 import streamlit as st
 
