@@ -31,6 +31,25 @@ python scripts/check.py       # run before every push, needs no keys
 python -m kate.data           # regenerate data/ after editing kate/data.py
 ```
 
+## Demo video narration (ElevenLabs)
+
+The narration text lives in `scripts/voiceover.py` (the `SEGMENTS` list). To turn it into audio clips:
+
+1. Get an ElevenLabs API key at https://elevenlabs.io/app/settings/api-keys (starts with `sk_`).
+2. Open `.env`, paste it after `ELEVENLABS_API_KEY=`, and save with Ctrl+S.
+3. In a terminal in the project folder, run:
+   ```powershell
+   .venv\Scripts\python.exe scripts\voiceover.py
+   ```
+4. The clips appear in `out/voiceover/` as `01_intro.mp3` to `12_close.mp3`, about 2 minutes in total.
+5. Open `demo/shotlist.md`: for each clip it lists when it starts and what to click in the app meanwhile.
+6. Record the screen (Win+Alt+R) following the shot list, then line up the clips on it in Clipchamp and export.
+
+To change the wording, edit the text in `SEGMENTS` and run step 3 again. To change the voice, set
+`NARRATOR_VOICE_ID` in `.env` to any voice ID from the ElevenLabs Voice Library.
+If the script fails, paste each paragraph into https://elevenlabs.io/app/speech-synthesis with the voice Sarah
+and download the clips one by one.
+
 ## Who owns what
 
 One owner per file. Change someone else's file only after telling them.
