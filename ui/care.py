@@ -41,7 +41,7 @@ def render(profile: dict, txs: pd.DataFrame, today):
                 st.caption("Nothing to flag. Kate stays quiet.")
                 return
             key, text = _kate_message(profile, a, s)
-            say(text, key)
+            say(text, key, speak=False)  # the video narration covers this story
             for mode, label in care.MODES.items():
                 if st.button(label, key=f"mode_{mode}", width="stretch", type="primary" if mode == 2 else "secondary"):
                     s["mode"] = mode
@@ -50,7 +50,7 @@ def render(profile: dict, txs: pd.DataFrame, today):
 
         st.chat_message("user", avatar=":material/person:").write(care.MODES[s["mode"]])
         key, text = _kate_message(profile, a, s)
-        say(text, key)
+        say(text, key, speak=False)  # the video narration covers this story
 
         if s["mode"] == 1:
             st.caption("Proactive tips are off. Kate only answers when Arne asks her something.")

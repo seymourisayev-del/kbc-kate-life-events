@@ -28,10 +28,10 @@ def voice_available() -> bool:
     return bool(os.getenv("ELEVENLABS_API_KEY"))
 
 
-def say(text: str, key: str):
+def say(text: str, key: str, speak: bool = True):
     """Kate's bubble, plus a spoken version the first time when ElevenLabs is configured."""
     st.chat_message("assistant", avatar=":material/support_agent:").write(text)
-    if voice_available() and not st.session_state.get(f"spoken_{key}"):
+    if speak and voice_available() and not st.session_state.get(f"spoken_{key}"):
         try:
             with st.spinner("Kate is speaking..."):
                 st.audio(services.speak(text), format="audio/mpeg", autoplay=True)
